@@ -1,7 +1,7 @@
 variable "region" {
   description = "AWS region"
   type        = string
-  default     = "us-east-2"
+  default     = "us-east-1"
 }
 
 variable "clusterName" {
@@ -12,4 +12,3 @@ variable "clusterName" {
 
 ##00
 ##00
-###00
